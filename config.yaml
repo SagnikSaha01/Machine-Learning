@@ -1,0 +1,11 @@
+path: C:\\Users\\Public\\dataset
+train: images\\train
+val: images\\train
+
+names: 
+  0: Red Pencil
+  1: Blue Pencil
+  2: Orange Pencil
+  3: Green Pencil
+  4: Purple Pencil
+  5: Yellow Pencil
